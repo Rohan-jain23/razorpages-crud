@@ -1,0 +1,28 @@
+﻿@page
+@using System.Data.SqlClient;
+
+
+@{
+
+    try
+    {
+        string ProblemId = Request.Query["id"];
+        string conncectionString = "Data Source=SP13889\\SQLEXPRESS;Initial Catalog=\"Police Management System\";Integrated Security=True";
+        using (SqlConnection connection = new SqlConnection(conncectionString))
+        {
+            connection.Open();
+            string sql = "Delete from ProblemDetails where ProblemId =@ProblemId";
+            using (SqlCommand command = new SqlCommand(sql, connection))
+            {
+                command.Parameters.AddWithValue("@ProblemId", ProblemId);
+                command.ExecuteNonQuery();
+            }
+        }
+    }
+    catch(Exception ex)
+    {
+        Console.WriteLine(ex.Message);
+    }
+    Response.Redirect("/ProblemDetails/Index");
+}
+

@@ -1,0 +1,38 @@
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\appsettings.Development.json
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\appsettings.json
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\Police Management System.staticwebassets.runtime.json
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\Police Management System.exe
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\Police Management System.deps.json
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\Police Management System.runtimeconfig.json
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\Police Management System.dll
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\Police Management System.pdb
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Rohan Projects\Police Management System\Police Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\Police Management System.csproj.AssemblyReference.cache
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\Police Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\Police Management System.AssemblyInfoInputs.cache
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\Police Management System.AssemblyInfo.cs
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\Police Management System.csproj.CoreCompileInputs.cache
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\Police Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\Police Management System.RazorAssemblyInfo.cache
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\Police Management System.RazorAssemblyInfo.cs
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\staticwebassets\msbuild.Police Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\staticwebassets\msbuild.build.Police Management System.props
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Police Management System.props
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Police Management System.props
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\scopedcss\bundle\Police Management System.styles.css
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\scopedcss\projectbundle\Police Management System.bundle.scp.css
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\Police Management System.csproj.CopyComplete
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\Police Management System.dll
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\refint\Police Management System.dll
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\Police Management System.pdb
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\Police Management System.genruntimeconfig.cache
+C:\Rohan Projects\Police Management System\Police Management System\obj\Debug\net6.0\ref\Police Management System.dll

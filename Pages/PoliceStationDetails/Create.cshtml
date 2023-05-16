@@ -1,0 +1,58 @@
+﻿@page
+@model Police_Management_System.Pages.PoliceStationDetails.CreateModel
+@{
+}
+<br>
+<h2>New PoliceStation Details</h2>
+
+
+@if (Model.errorMessage.Length > 0)
+{
+    <div class='alert alert-warning alert alert-dismissible fade show' role='alert'>
+        <strong>@Model.errorMessage</strong>
+        <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='close'></button>
+    </div>
+}
+
+<form method="POST">
+    <div class="row mb-3">
+        <label class=" col-sm-3 col-form-label">PoliceStationId</label>
+        <div class=" col-sm-6">
+            <input type="text" class=" form-control" name="PoliceStationId" value="@Model.listpolice.PoliceStationId">
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class=" col-sm-3 col-form-label">PoliceStationtName</label>
+        <div class=" col-sm-6">
+            <input type="text" class=" form-control" name="PoliceStationName" value="@Model.listpolice.PoliceStationName">
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class=" col-sm-3 col-form-label">Address</label>
+        <div class=" col-sm-6">
+            <input type="text" class=" form-control" name="Address" value="@Model.listpolice.Address">
+        </div>
+    </div>
+
+    
+
+    @if (Model.errorMessage.Length > 0)
+    {
+        <div class='alert alert-warning alert alert-dismissible fade show' role='alert'>
+            <strong>@Model.errorMessage</strong>
+            <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='close'></button>
+        </div>
+    }
+
+    <div class="row mb-3">
+        <div class=" offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class=" btn btn-primary">Submit</button>
+        </div>
+        <div class="col-sm-3 d-grid">
+            <a class="btn btn-outline-primary" href="/" role="button">Cancel</a>
+        </div>
+    </div>
+
+</form>

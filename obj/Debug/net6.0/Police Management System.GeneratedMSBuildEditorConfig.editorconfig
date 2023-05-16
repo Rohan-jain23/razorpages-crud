@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Police_Management_System
+build_property.RootNamespace = Police_Management_System
+build_property.ProjectDir = C:\Users\jainroh\Desktop\rohan\Police Management System\Police Management System\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\jainroh\Desktop\rohan\Police Management System\Police Management System
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/GuestDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Vlc3REZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/GuestDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Vlc3REZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/GuestDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Vlc3REZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/GuestDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Vlc3REZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/PoliceStationDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9saWNlU3RhdGlvbkRldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/PoliceStationDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9saWNlU3RhdGlvbkRldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/PoliceStationDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9saWNlU3RhdGlvbkRldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/PoliceStationDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9saWNlU3RhdGlvbkRldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/ProblemDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvYmxlbURldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/ProblemDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvYmxlbURldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jainroh/Desktop/rohan/Police Management System/Police Management System/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6jtb18npxg

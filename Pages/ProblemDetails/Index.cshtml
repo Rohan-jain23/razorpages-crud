@@ -1,0 +1,86 @@
+﻿@page
+@model Police_Management_System.Pages.ProblemDetails.IndexModel
+@{
+}
+<br>
+<h2>List of ProblemDetails</h2>
+@*<table class="table">
+    <thead>
+        <tr>
+            <th>ProblemId</th>
+            <th>PoliceStationId</th>
+            <th>Date</th>
+            <th>ProblemDescription</th>
+            <th>IsResolved</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listproblem)
+        {
+            <tr>
+                <td>@item.ProblemId</td>
+                <td>@item.PoliceStationId</td>
+                <td>@item.Date</td>
+                <td>@item.ProblemDescription</td>
+                <td>@item.IsResolved</td>
+                <td>
+                    <a class='btn btn-danger btn-sm' href="/ProblemDetails/Delete?id=@item.ProblemId">Delete</a>
+
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>*@
+
+<form method="post">
+    <input name="BookingFrom" type="date" />
+    <select name="policeid">
+        <option  >
+            select Police Station Details
+        </option>
+        @foreach (var value in Model.PoliceStationInfo)
+        {
+            @*<input type="hidden" value=@value.PoliceStationName name="stationNmae" />*@
+        <option value=@value.PoliceStationId>
+            @value.PoliceStationName
+        </option>
+            }
+    </select>
+    <button type="submit"> Search</button>
+
+
+</form>
+@if (Model.ProblemStore.Capacity!=0)
+{
+        <table class="table">
+    <thead>
+            <tr>
+                <th>ProblemId</th>
+                    <th>ProblemDescription</th>
+                
+                
+                <th>IsResolved</th>
+                <th>Date</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.ProblemStore)
+            {
+                    <tr>
+                        <td>@item.ProblemId</td>
+                        <td>@item.Description</td>
+                        <td>@item.isResolved</td>
+                        <td>@item.Date<td>
+                       
+                    
+
+                    </tr>
+            }
+        </tbody>
+    </table>
+    
+}
+

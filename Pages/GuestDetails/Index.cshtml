@@ -1,0 +1,44 @@
+﻿@page
+@model Police_Management_System.Pages.GuestDetails.IndexModel
+@{
+}
+<br>
+<h2>List of GuestDetails</h2>
+<a class='btn btn-primary btn-sm' href='/GuestDetails/Create'>New Guest</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>GuestId</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Country</th>
+            <th>Pincode</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listguest)
+        {
+            <tr>
+                <td>@item.GuestId</td>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.Address</td>
+                <td>@item.City</td>
+                <td>@item.State</td>
+                <td>@item.Country</td>
+                <td>@item.Pincode</td>
+                <td>
+                    <a class='btn btn-primary btn-sm' href="/GuestDetails/Edit?id=@item.GuestId">Edit</a>
+                    <a class='btn btn-danger btn-sm' href="/GuestDetails/Delete?id=@item.GuestId">Delete</a>
+
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+

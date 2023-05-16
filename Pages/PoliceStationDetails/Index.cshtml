@@ -1,0 +1,36 @@
+﻿@page
+@model Police_Management_System.Pages.PoliceStationDetails.IndexModel
+@{
+}
+<br>
+<h2>New PoliceStation Details</h2>
+<a class='btn btn-primary btn-sm' href='/PoliceStationDetails/Create'>New PoliceStation Details</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>PoliceStationId</th>
+            <th>PoliceStationName</th>
+            <th>Address</th>
+           
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listpolice)
+        {
+            <tr>
+                <td>@item.PoliceStationId</td>
+                <td>@item.PoliceStationName</td>
+                <td>@item.Address</td>
+                
+               
+                <td>
+                    <a class='btn btn-primary btn-sm' href="/PoliceStationDetails/Edit?id=@item.PoliceStationId">Edit</a>
+                    <a class='btn btn-danger btn-sm' href="/PoliceStationDetails/Delete?id=@item.PoliceStationId">Delete</a>
+
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
